@@ -1,0 +1,17 @@
+Ubicar el directorio "codeoptica" dentro de la siguiente ruta una vez halla finalizado la instalación de WampServer:
+
+C:\wamp\www
+
+Usuarios dentro del sistema:
+
+Administrador:
+nombre de usuario: armaru
+contraseña: armaru2016
+
+Medico:
+nombre de usuario: kather
+contraseña: kather2016
+
+Recepcionista:
+nombre de usuario: yunoro
+contraseña: yunoro2016
